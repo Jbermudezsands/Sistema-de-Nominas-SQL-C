@@ -1,0 +1,18 @@
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\bin\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\bin\Debug\Datos.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\bin\Debug\Entidades.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\bin\Debug\Entidades.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\obj\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Datos\obj\Debug\Datos.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\bin\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\bin\Debug\Datos.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\bin\Debug\Entidades.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\bin\Debug\Entidades.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\obj\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Datos\obj\Debug\Datos.pdb

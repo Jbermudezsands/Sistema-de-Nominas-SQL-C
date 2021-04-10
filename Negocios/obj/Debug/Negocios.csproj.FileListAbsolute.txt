@@ -1,0 +1,22 @@
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Negocios.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Negocios.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Entidades.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Datos.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\bin\Debug\Entidades.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\obj\Debug\Negocios.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Sistema de Nominas\Negocios\obj\Debug\Negocios.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Negocios.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Negocios.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Datos.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Entidades.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Datos.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\bin\Debug\Entidades.pdb
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\obj\Debug\Negocios.dll
+D:\Sistemas\Sistema-de-Nominas-SQL-V.6.0\Negocios\obj\Debug\Negocios.pdb
