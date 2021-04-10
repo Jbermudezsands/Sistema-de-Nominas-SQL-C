@@ -4,6 +4,57 @@
     "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Sistema de Nominas 6.0\\Sistema de Nominas 6.0\\Sistema de Nominas 6.0.csproj": {}
   },
   "projects": {
+    "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Datos\\Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Datos\\Datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Negocios\\Negocios.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Negocios\\Negocios.csproj",
+        "projectName": "Negocios",
+        "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Negocios\\Negocios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Datos\\Datos.csproj": {
+                "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Datos\\Datos.csproj"
+              },
+              "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Sistema de Nominas 6.0\\Sistema de Nominas 6.0\\Sistema de Nominas 6.0.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -37,7 +88,14 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Entidades\\Entidades.csproj"
+              },
+              "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Negocios\\Negocios.csproj": {
+                "projectPath": "D:\\Sistemas\\Sistema-de-Nominas-SQL-C\\Negocios\\Negocios.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
